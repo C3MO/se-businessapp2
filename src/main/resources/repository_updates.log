@@ -1,0 +1,91 @@
+2019-06-06 14:58:18.776 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-06 14:58:18.778 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-06 14:58:24.637 INFO  GenericMemRepositoryImpl: ==> deleted(C.A757GR)
+2019-06-06 14:58:27.411 INFO  GenericMemRepositoryImpl: ==> deleted(C.1BKNGU)
+2019-06-06 15:04:10.836 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-06 15:04:10.837 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-06 15:08:18.156 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-06 15:08:18.159 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-06 15:25:38.088 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-06 15:25:38.089 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-06 16:34:34.477 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-06 16:34:34.479 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-06 16:34:39.543 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-06 16:34:39.543 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-06 16:35:54.568 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-06 16:35:54.570 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-06 16:36:05.237 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-06 16:36:05.237 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-06 16:37:18.047 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-06 16:37:18.049 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-06 16:38:00.663 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-06 16:38:00.663 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-06 16:38:27.203 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-06 16:38:27.206 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-06 16:38:31.602 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-06 16:38:31.603 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-13 11:53:17.068 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-13 11:53:17.074 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-13 11:54:06.626 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-13 11:54:06.627 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-13 12:12:40.559 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-13 12:12:40.563 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-13 12:12:56.422 INFO  CustomerRepositoryImpl: Created new Customer
+2019-06-13 12:13:47.366 INFO  GenericMemRepositoryImpl: ==> created(C.LH5P98)
+2019-06-13 12:13:47.368 INFO  CustomerRepositoryImpl: updated Customer Paul Pansen (C.LH5P98)
+2019-06-13 12:14:30.034 INFO  GenericMemRepositoryImpl: ==> updated(C.YC3CYZ)
+2019-06-13 12:14:30.035 INFO  CustomerRepositoryImpl: updated Customer Emma Jones (C.YC3CYZ)
+2019-06-13 12:14:52.419 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-13 12:14:52.420 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-13 12:14:59.098 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-13 12:14:59.102 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-13 12:16:12.320 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-13 12:16:12.320 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-13 14:12:06.627 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-13 14:12:06.632 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-13 14:12:09.591 INFO  CustomerRepositoryImpl: Created new Customer
+2019-06-13 14:12:21.228 INFO  GenericMemRepositoryImpl: ==> created(C.SIGTMR)
+2019-06-13 14:12:21.230 INFO  CustomerRepositoryImpl: updated Customer sfsef dfsdf (C.SIGTMR)
+2019-06-13 14:12:23.722 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-13 14:12:23.722 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-13 14:12:27.888 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-13 14:12:27.892 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-13 14:14:38.066 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-13 14:14:38.070 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-13 14:19:32.034 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-13 14:19:32.035 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-13 15:09:34.222 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-13 15:09:34.228 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-13 15:09:38.257 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-13 15:09:38.258 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-13 16:47:39.344 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-13 16:47:39.349 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-13 16:48:13.981 INFO  CustomerRepositoryImpl: Created new Customer
+2019-06-13 16:48:28.341 INFO  GenericMemRepositoryImpl: ==> created(C.6HSMM5)
+2019-06-13 16:48:28.341 INFO  CustomerRepositoryImpl: updated Customer dsadsa sadasd (C.6HSMM5)
+2019-06-13 16:52:30.590 INFO  GenericMemRepositoryImpl: ==> deleted(C.6HSMM5)
+2019-06-13 16:52:36.292 INFO  GenericMemRepositoryImpl: ==> deleted(C.K7ZPFA)
+2019-06-13 16:52:44.216 INFO  CustomerRepositoryImpl: Created new Customer
+2019-06-13 16:52:57.278 INFO  GenericMemRepositoryImpl: ==> created(C.VI20SR)
+2019-06-13 16:52:57.279 INFO  CustomerRepositoryImpl: updated Customer sdfd fsdd (C.VI20SR)
+2019-06-13 16:58:09.442 INFO  GenericMemRepositoryImpl: ==> updated(C.X2C24E)
+2019-06-13 16:58:09.442 INFO  CustomerRepositoryImpl: updated Customer Michaele Brown (C.X2C24E)
+2019-06-13 17:17:03.914 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-13 17:17:03.918 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-13 17:17:51.847 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl stopped.
+2019-06-13 17:17:51.848 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl stopped.
+2019-06-13 17:31:55.078 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-13 17:31:55.082 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-13 17:32:20.105 INFO  GenericMemRepositoryImpl: ==> deleted(C.A7RB9Z)
+2019-06-13 17:32:25.707 INFO  GenericMemRepositoryImpl: ==> deleted(C.TDHNGN)
+2019-06-13 17:33:55.351 INFO  GenericMemRepositoryImpl: ==> updated(C.0KVDNO)
+2019-06-13 17:33:55.354 INFO  CustomerRepositoryImpl: updated Customer Anneerw Meyer (C.0KVDNO)
+2019-06-13 17:34:01.474 INFO  CustomerRepositoryImpl: Created new Customer
+2019-06-13 17:34:11.469 INFO  GenericMemRepositoryImpl: ==> created(C.V8ETJO)
+2019-06-13 17:34:11.470 INFO  CustomerRepositoryImpl: updated Customer dsfdsf dsfsd (C.V8ETJO)
+2019-06-13 17:39:47.052 INFO  GenericMemRepositoryImpl: ==> updated(C.9XVRJ6)
+2019-06-13 17:39:47.052 INFO  CustomerRepositoryImpl: updated Customer Isabellajg Johnson (C.9XVRJ6)
+2019-06-20 14:58:13.546 INFO  GenericMemRepositoryImpl: CustomerRepositoryImpl started.
+2019-06-20 14:58:13.549 INFO  GenericMemRepositoryImpl: ArticleRepositoryImpl started.
+2019-06-20 15:09:51.843 INFO  GenericMemRepositoryImpl: ==> deleted(C.PU026B)
+2019-06-20 15:09:56.581 INFO  CustomerRepositoryImpl: Created new Customer
